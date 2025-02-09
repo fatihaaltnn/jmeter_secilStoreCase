@@ -1,41 +1,41 @@
-2025-02-09 14:03:01,191 INFO o.a.j.u.JMeterUtils: Setting Locale to tr_TR
-2025-02-09 14:03:01,213 INFO o.a.j.u.JMeterUtils: Could not find resources for 'tr_TR', using 'tr'
-2025-02-09 14:03:01,214 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2025-02-09 14:03:01,214 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: Version 5.6.3
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: java.version=11.0.25
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: os.name=Windows 11
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: os.arch=amd64
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: os.version=10.0
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: file.encoding=Cp1254
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: java.awt.headless=null
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: Max memory     =4219469824
-2025-02-09 14:03:01,222 INFO o.a.j.JMeter: Available Processors =16
-2025-02-09 14:03:01,227 INFO o.a.j.JMeter: Default Locale=Türkçe (Türkiye)
-2025-02-09 14:03:01,227 INFO o.a.j.JMeter: JMeter  Locale=Türkçe (Türkiye)
-2025-02-09 14:03:01,227 INFO o.a.j.JMeter: JMeterHome=C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3
-2025-02-09 14:03:01,227 INFO o.a.j.JMeter: user.dir  =C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin
-2025-02-09 14:03:01,227 INFO o.a.j.JMeter: PWD       =C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin
-2025-02-09 14:03:01,232 INFO o.a.j.JMeter: IP: 192.168.1.130 Name: DESKTOP-0PHBOK7 FullName: DESKTOP-0PHBOK7
-2025-02-09 14:03:01,252 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2025-02-09 14:03:01,398 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
-2025-02-09 14:03:15,805 INFO o.a.j.s.FileServer: Default base='C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin'
-2025-02-09 14:03:15,807 INFO o.a.j.g.a.Load: Loading file: C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin\secilStoreCase.jmx
-2025-02-09 14:03:15,807 INFO o.a.j.s.FileServer: Set new base='C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin'
-2025-02-09 14:03:15,980 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2025-02-09 14:03:15,997 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2025-02-09 14:03:15,998 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2025-02-09 14:03:15,999 INFO o.a.j.s.SaveService: Loading file: C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin\secilStoreCase.jmx
-2025-02-09 14:03:16,025 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-02-09 14:03:16,025 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-02-09 14:03:16,025 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-02-09 14:03:16,025 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2025-02-09 14:03:16,025 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2025-02-09 14:03:16,025 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2025-02-09 14:03:16,252 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2025-02-09 14:03:16,252 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
-2025-02-09 14:03:16,252 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2025-02-09 14:03:16,254 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2025-02-09 14:03:16,531 INFO o.a.j.s.FileServer: Set new base='C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin'
+2025-02-09 15:41:47,736 INFO o.a.j.u.JMeterUtils: Setting Locale to tr_TR
+2025-02-09 15:41:47,758 INFO o.a.j.u.JMeterUtils: Could not find resources for 'tr_TR', using 'tr'
+2025-02-09 15:41:47,758 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2025-02-09 15:41:47,758 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: Version 5.6.3
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: java.version=11.0.25
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: os.name=Windows 11
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: os.arch=amd64
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: os.version=10.0
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: file.encoding=Cp1254
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: java.awt.headless=null
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: Max memory     =4219469824
+2025-02-09 15:41:47,764 INFO o.a.j.JMeter: Available Processors =16
+2025-02-09 15:41:47,772 INFO o.a.j.JMeter: Default Locale=Türkçe (Türkiye)
+2025-02-09 15:41:47,772 INFO o.a.j.JMeter: JMeter  Locale=Türkçe (Türkiye)
+2025-02-09 15:41:47,772 INFO o.a.j.JMeter: JMeterHome=C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3
+2025-02-09 15:41:47,772 INFO o.a.j.JMeter: user.dir  =C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin
+2025-02-09 15:41:47,772 INFO o.a.j.JMeter: PWD       =C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin
+2025-02-09 15:41:47,776 INFO o.a.j.JMeter: IP: 192.168.1.130 Name: DESKTOP-0PHBOK7 FullName: DESKTOP-0PHBOK7
+2025-02-09 15:41:47,792 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-02-09 15:41:47,921 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-02-09 15:42:00,484 INFO o.a.j.s.FileServer: Default base='C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin'
+2025-02-09 15:42:00,484 INFO o.a.j.g.a.Load: Loading file: C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin\secilStoreCase.jmx
+2025-02-09 15:42:00,484 INFO o.a.j.s.FileServer: Set new base='C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin'
+2025-02-09 15:42:00,636 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-02-09 15:42:00,654 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-02-09 15:42:00,654 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-02-09 15:42:00,654 INFO o.a.j.s.SaveService: Loading file: C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin\secilStoreCase.jmx
+2025-02-09 15:42:00,679 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-09 15:42:00,679 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-09 15:42:00,679 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-09 15:42:00,679 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-02-09 15:42:00,679 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-02-09 15:42:00,679 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-02-09 15:42:00,918 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-02-09 15:42:00,919 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-02-09 15:42:00,919 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-02-09 15:42:00,919 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-02-09 15:42:01,417 INFO o.a.j.s.FileServer: Set new base='C:\Users\ACER\Desktop\Jmeter\apache-jmeter-5.6.3\bin'
